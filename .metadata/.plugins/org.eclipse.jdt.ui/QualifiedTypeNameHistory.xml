@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="project1.algorithms.Utils"/>
+    <fullyQualifiedTypeName name="project1.exceptions.NullArgumentException"/>
+    <fullyQualifiedTypeName name="project1.algorithms.Sort"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.Comparator"/>
+    <fullyQualifiedTypeName name="project1.exceptions.InvalidArgumentException"/>
+    <fullyQualifiedTypeName name="java.io.BufferedWriter"/>
+    <fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
+    <fullyQualifiedTypeName name="project1.datahandlers.Signal"/>
+    <fullyQualifiedTypeName name="project1.algorithms.Search"/>
+    <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="java.util.LinkedList"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="project1.lists.ArrayList"/>
+    <fullyQualifiedTypeName name="project1.lists.LinkedList"/>
+    <fullyQualifiedTypeName name="project1.lists.DoublyLinkedList"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.NoSuchElementException"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,308 @@
+Algorithm,Data Structure, Mean Time
+Quick,ArrayList,3.6
+Bubble,ArrayList,0.1
+Selection,ArrayList,1.7
+Insertion,ArrayList,0.0
+Quick,LinkedList,62.8
+Bubble,LinkedList,0.7
+Selection,LinkedList,87.8
+Insertion,LinkedList,0.5
+Quick,DoublyLinkedList,21.4
+Bubble,DoublyLinkedList,0.3
+Selection,DoublyLinkedList,39.3
+Insertion,DoublyLinkedList,0.3
+Iterative Binary Search, ArrayList,0.1
+Recursive Binary Search, ArrayList,0.0
+Linear Search, ArrayList,0.1
+Iterative Binary Search, LinkedList,0.0
+Recursive Binary Search, LinkedList,0.0
+Linear Search, LinkedList,0.1
+Iterative Binary Search, DoublyLinkedList,0.0
+Recursive Binary Search, DoublyLinkedList,0.0
+Linear Search, DoublyLinkedList,0.0
+Algorithm,Data Structure, Mean Time
+Quick,ArrayList,4.6
+Bubble,ArrayList,0.0
+Selection,ArrayList,2.9
+Insertion,ArrayList,0.1
+Quick,LinkedList,509.2
+Bubble,LinkedList,1.7
+Selection,LinkedList,755.2
+Insertion,LinkedList,2.6
+Quick,DoublyLinkedList,177.2
+Bubble,DoublyLinkedList,0.8
+Selection,DoublyLinkedList,351.5
+Insertion,DoublyLinkedList,1.3
+Iterative Binary Search, ArrayList,0.0
+Recursive Binary Search, ArrayList,0.0
+Linear Search, ArrayList,0.0
+Iterative Binary Search, LinkedList,0.0
+Recursive Binary Search, LinkedList,0.0
+Linear Search, LinkedList,0.5
+Iterative Binary Search, DoublyLinkedList,0.0
+Recursive Binary Search, DoublyLinkedList,0.0
+Linear Search, DoublyLinkedList,0.2
+Algorithm,Data Structure, Mean Time
+Quick,ArrayList,3.0
+Bubble,ArrayList,0.0
+Selection,ArrayList,2.0
+Insertion,ArrayList,0.1
+Quick,LinkedList,529.2
+Bubble,LinkedList,1.6
+Selection,LinkedList,792.6
+Insertion,LinkedList,2.8
+Quick,DoublyLinkedList,183.2
+Bubble,DoublyLinkedList,1.0
+Selection,DoublyLinkedList,362.3
+Insertion,DoublyLinkedList,1.3
+Iterative Binary Search, ArrayList,0.0
+Recursive Binary Search, ArrayList,0.0
+Linear Search, ArrayList,0.0
+Iterative Binary Search, LinkedList,0.1
+Recursive Binary Search, LinkedList,0.0
+Linear Search, LinkedList,0.3
+Iterative Binary Search, DoublyLinkedList,0.0
+Recursive Binary Search, DoublyLinkedList,0.0
+Linear Search, DoublyLinkedList,0.2
+Algorithm,Data Structure, Mean Time
+Quick,ArrayList,1.5
+Bubble,ArrayList,0.1
+Selection,ArrayList,3.8
+Insertion,ArrayList,0.1
+Quick,LinkedList,42.2
+Bubble,LinkedList,1.7
+Selection,LinkedList,782.0
+Insertion,LinkedList,2.6
+Quick,DoublyLinkedList,17.2
+Bubble,DoublyLinkedList,1.0
+Selection,DoublyLinkedList,364.5
+Insertion,DoublyLinkedList,1.4
+Iterative Binary Search, ArrayList,0.0
+Recursive Binary Search, ArrayList,0.0
+Linear Search, ArrayList,0.1
+Iterative Binary Search, LinkedList,0.0
+Recursive Binary Search, LinkedList,0.0
+Linear Search, LinkedList,0.3
+Iterative Binary Search, DoublyLinkedList,0.0
+Recursive Binary Search, DoublyLinkedList,0.0
+Linear Search, DoublyLinkedList,0.3
+Algorithm,Data Structure, Mean Time
+Quick,ArrayList,1.5
+Bubble,ArrayList,0.1
+Selection,ArrayList,3.2
+Insertion,ArrayList,0.1
+Quick,LinkedList,41.3
+Bubble,LinkedList,1.8
+Selection,LinkedList,785.0
+Insertion,LinkedList,2.6
+Quick,DoublyLinkedList,15.6
+Bubble,DoublyLinkedList,1.0
+Selection,DoublyLinkedList,364.7
+Insertion,DoublyLinkedList,1.4
+Iterative Binary Search, ArrayList,0.0
+Recursive Binary Search, ArrayList,0.0
+Linear Search, ArrayList,0.0
+Iterative Binary Search, LinkedList,0.0
+Recursive Binary Search, LinkedList,0.0
+Linear Search, LinkedList,0.2
+Iterative Binary Search, DoublyLinkedList,0.0
+Recursive Binary Search, DoublyLinkedList,0.0
+Linear Search, DoublyLinkedList,0.3
+Algorithm,Data Structure, Mean Time
+Quick,ArrayList,1.4
+Bubble,ArrayList,0.1
+Selection,ArrayList,3.3
+Insertion,ArrayList,0.2
+Quick,LinkedList,40.1
+Bubble,LinkedList,1.7
+Selection,LinkedList,752.9
+Insertion,LinkedList,2.5
+Quick,DoublyLinkedList,15.4
+Bubble,DoublyLinkedList,0.5
+Selection,DoublyLinkedList,354.2
+Insertion,DoublyLinkedList,1.2
+Iterative Binary Search, ArrayList,0.0
+Recursive Binary Search, ArrayList,0.0
+Linear Search, ArrayList,0.0
+Iterative Binary Search, LinkedList,0.1
+Recursive Binary Search, LinkedList,0.0
+Linear Search, LinkedList,0.4
+Iterative Binary Search, DoublyLinkedList,0.0
+Recursive Binary Search, DoublyLinkedList,0.0
+Linear Search, DoublyLinkedList,0.3
+Algorithm,Data Structure, Mean Time
+Quick,ArrayList,2.0
+Bubble,ArrayList,0.0
+Selection,ArrayList,5.6
+Insertion,ArrayList,0.2
+Quick,LinkedList,43.7
+Bubble,LinkedList,1.8
+Selection,LinkedList,754.4
+Insertion,LinkedList,2.5
+Quick,DoublyLinkedList,18.3
+Bubble,DoublyLinkedList,1.2
+Selection,DoublyLinkedList,384.1
+Insertion,DoublyLinkedList,1.3
+Iterative Binary Search, ArrayList,0.1
+Recursive Binary Search, ArrayList,0.0
+Linear Search, ArrayList,0.0
+Iterative Binary Search, LinkedList,0.0
+Recursive Binary Search, LinkedList,0.0
+Linear Search, LinkedList,0.4
+Iterative Binary Search, DoublyLinkedList,0.0
+Recursive Binary Search, DoublyLinkedList,0.0
+Linear Search, DoublyLinkedList,0.2
+Algorithm,Data Structure, Mean Time
+Quick,ArrayList,4.8
+Bubble,ArrayList,0.0
+Selection,ArrayList,1.8
+Insertion,ArrayList,0.2
+Quick,LinkedList,518.5
+Bubble,LinkedList,1.7
+Selection,LinkedList,756.7
+Insertion,LinkedList,2.6
+Quick,DoublyLinkedList,179.1
+Bubble,DoublyLinkedList,0.9
+Selection,DoublyLinkedList,353.3
+Insertion,DoublyLinkedList,1.4
+Iterative Binary Search, ArrayList,0.1
+Recursive Binary Search, ArrayList,0.0
+Linear Search, ArrayList,0.0
+Iterative Binary Search, LinkedList,0.0
+Recursive Binary Search, LinkedList,0.0
+Linear Search, LinkedList,0.5
+Iterative Binary Search, DoublyLinkedList,0.1
+Recursive Binary Search, DoublyLinkedList,0.1
+Linear Search, DoublyLinkedList,0.2
+Algorithm,Data Structure, Mean Time
+Quick,ArrayList,1.3
+Bubble,ArrayList,0.0
+Selection,ArrayList,4.4
+Insertion,ArrayList,0.1
+Quick,LinkedList,40.0
+Bubble,LinkedList,1.6
+Selection,LinkedList,755.0
+Insertion,LinkedList,2.4
+Quick,DoublyLinkedList,15.3
+Bubble,DoublyLinkedList,0.9
+Selection,DoublyLinkedList,353.2
+Insertion,DoublyLinkedList,1.2
+Iterative Binary Search, ArrayList,0.0
+Recursive Binary Search, ArrayList,0.0
+Linear Search, ArrayList,0.0
+Iterative Binary Search, LinkedList,0.0
+Recursive Binary Search, LinkedList,0.0
+Linear Search, LinkedList,0.2
+Iterative Binary Search, DoublyLinkedList,0.0
+Recursive Binary Search, DoublyLinkedList,0.0
+Linear Search, DoublyLinkedList,0.2
+Algorithm,Data Structure, Mean Time
+Quick,ArrayList,4.0
+Bubble,ArrayList,0.0
+Selection,ArrayList,1.8
+Insertion,ArrayList,0.1
+Quick,LinkedList,529.4
+Bubble,LinkedList,0.2
+Selection,LinkedList,794.9
+Insertion,LinkedList,2.7
+Quick,DoublyLinkedList,188.1
+Bubble,DoublyLinkedList,0.1
+Selection,DoublyLinkedList,371.5
+Insertion,DoublyLinkedList,1.4
+Iterative Binary Search, ArrayList,0.1
+Recursive Binary Search, ArrayList,0.0
+Linear Search, ArrayList,0.0
+Iterative Binary Search, LinkedList,0.0
+Recursive Binary Search, LinkedList,0.0
+Linear Search, LinkedList,0.3
+Iterative Binary Search, DoublyLinkedList,0.0
+Recursive Binary Search, DoublyLinkedList,0.0
+Linear Search, DoublyLinkedList,0.3
+Algorithm,Data Structure, Mean Time
+Quick,ArrayList,3.8
+Bubble,ArrayList,0.0
+Selection,ArrayList,1.9
+Insertion,ArrayList,0.1
+Quick,LinkedList,543.4
+Bubble,LinkedList,0.2
+Selection,LinkedList,796.1
+Insertion,LinkedList,2.7
+Quick,DoublyLinkedList,188.2
+Bubble,DoublyLinkedList,0.1
+Selection,DoublyLinkedList,361.4
+Insertion,DoublyLinkedList,1.3
+Iterative Binary Search, ArrayList,0.0
+Recursive Binary Search, ArrayList,0.0
+Linear Search, ArrayList,0.1
+Iterative Binary Search, LinkedList,0.0
+Recursive Binary Search, LinkedList,0.0
+Linear Search, LinkedList,0.3
+Iterative Binary Search, DoublyLinkedList,0.0
+Recursive Binary Search, DoublyLinkedList,0.0
+Linear Search, DoublyLinkedList,0.3
+Algorithm,Data Structure, Mean Time
+Quick,ArrayList,1.6
+Bubble,ArrayList,0.1
+Selection,ArrayList,3.8
+Insertion,ArrayList,0.2
+Quick,LinkedList,41.1
+Bubble,LinkedList,1.8
+Selection,LinkedList,757.1
+Insertion,LinkedList,2.5
+Quick,DoublyLinkedList,15.4
+Bubble,DoublyLinkedList,0.3
+Selection,DoublyLinkedList,354.6
+Insertion,DoublyLinkedList,1.3
+Iterative Binary Search, ArrayList,0.0
+Recursive Binary Search, ArrayList,0.0
+Linear Search, ArrayList,0.0
+Iterative Binary Search, LinkedList,0.0
+Recursive Binary Search, LinkedList,0.0
+Linear Search, LinkedList,0.4
+Iterative Binary Search, DoublyLinkedList,0.0
+Recursive Binary Search, DoublyLinkedList,0.0
+Linear Search, DoublyLinkedList,0.3
+Algorithm,Data Structure, Mean Time
+Quick,ArrayList,1.3
+Bubble,ArrayList,0.1
+Selection,ArrayList,3.4
+Insertion,ArrayList,0.2
+Quick,LinkedList,40.7
+Bubble,LinkedList,1.8
+Selection,LinkedList,745.7
+Insertion,LinkedList,2.6
+Quick,DoublyLinkedList,16.3
+Bubble,DoublyLinkedList,1.0
+Selection,DoublyLinkedList,354.6
+Insertion,DoublyLinkedList,1.3
+Iterative Binary Search, ArrayList,0.1
+Recursive Binary Search, ArrayList,0.0
+Linear Search, ArrayList,0.0
+Iterative Binary Search, LinkedList,0.0
+Recursive Binary Search, LinkedList,0.0
+Linear Search, LinkedList,0.3
+Iterative Binary Search, DoublyLinkedList,0.0
+Recursive Binary Search, DoublyLinkedList,0.0
+Linear Search, DoublyLinkedList,0.2
+Algorithm,Data Structure, Mean Time
+Quick,ArrayList,4.9
+Bubble,ArrayList,4.7
+Selection,ArrayList,2.1
+Insertion,ArrayList,2.9
+Quick,LinkedList,388.0
+Bubble,LinkedList,1171.0
+Selection,LinkedList,353.9
+Insertion,LinkedList,507.4
+Quick,DoublyLinkedList,141.1
+Bubble,DoublyLinkedList,811.2
+Selection,DoublyLinkedList,208.5
+Insertion,DoublyLinkedList,481.2
+Iterative Binary Search, ArrayList,0.1
+Recursive Binary Search, ArrayList,0.0
+Linear Search, ArrayList,0.0
+Iterative Binary Search, LinkedList,0.1
+Recursive Binary Search, LinkedList,0.0
+Linear Search, LinkedList,0.0
+Iterative Binary Search, DoublyLinkedList,0.0
+Recursive Binary Search, DoublyLinkedList,0.0
+Linear Search, DoublyLinkedList,0.2

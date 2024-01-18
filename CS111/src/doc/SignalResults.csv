@@ -1,0 +1,66 @@
+Algorithm,Data Structure, Mean Time
+Quick,ArrayList,89676.2
+Bubble,ArrayList,552.9
+Selection,ArrayList,38130.8
+Insertion,ArrayList,1030.5
+Quick,LinkedList,6.13295215E8
+Bubble,LinkedList,182734.0
+Selection,LinkedList,9.138507793E8
+Insertion,LinkedList,272360.6
+Quick,DoublyLinkedList,2.067396684E8
+Bubble,DoublyLinkedList,83413.2
+Selection,DoublyLinkedList,4.321671195E8
+Insertion,DoublyLinkedList,124957.4
+Iterative Binary Search, ArrayList,128.2
+Recursive Binary Search, ArrayList,1.1
+Linear Search, ArrayList,183.3
+Iterative Binary Search, LinkedList,227.7
+Recursive Binary Search, LinkedList,156.2
+Linear Search, LinkedList,30918.5
+Iterative Binary Search, DoublyLinkedList,107.0
+Recursive Binary Search, DoublyLinkedList,71.9
+Linear Search, DoublyLinkedList,28026.8
+Algorithm,Data Structure, Mean Time
+Quick,ArrayList,85.0
+Bubble,ArrayList,281.5
+Selection,ArrayList,87.1
+Insertion,ArrayList,97.7
+Quick,LinkedList,546826.4
+Bubble,LinkedList,1347414.5
+Selection,LinkedList,389336.2
+Insertion,LinkedList,584909.2
+Quick,DoublyLinkedList,198958.6
+Bubble,DoublyLinkedList,928725.3
+Selection,DoublyLinkedList,308639.8
+Insertion,DoublyLinkedList,393899.7
+Iterative Binary Search, ArrayList,0.2
+Recursive Binary Search, ArrayList,0.0
+Linear Search, ArrayList,0.2
+Iterative Binary Search, LinkedList,0.3
+Recursive Binary Search, LinkedList,0.0
+Linear Search, LinkedList,32.8
+Iterative Binary Search, DoublyLinkedList,0.3
+Recursive Binary Search, DoublyLinkedList,0.0
+Linear Search, DoublyLinkedList,27.2
+Algorithm,Data Structure, Mean Time
+Quick,ArrayList,82.7
+Bubble,ArrayList,206.8
+Selection,ArrayList,75.1
+Insertion,ArrayList,82.5
+Quick,LinkedList,548941.8
+Bubble,LinkedList,1331382.5
+Selection,LinkedList,388381.2
+Insertion,LinkedList,584551.6
+Quick,DoublyLinkedList,199748.0
+Bubble,DoublyLinkedList,928348.0
+Selection,DoublyLinkedList,307623.7
+Insertion,DoublyLinkedList,400743.6
+Iterative Binary Search, ArrayList,0.0
+Recursive Binary Search, ArrayList,0.0
+Linear Search, ArrayList,0.1
+Iterative Binary Search, LinkedList,0.1
+Recursive Binary Search, LinkedList,0.4
+Linear Search, LinkedList,0.7
+Iterative Binary Search, DoublyLinkedList,0.2
+Recursive Binary Search, DoublyLinkedList,0.0
+Linear Search, DoublyLinkedList,3.7
