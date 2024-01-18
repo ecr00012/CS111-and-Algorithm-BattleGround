@@ -1,5 +1,7 @@
-GitRepositoriesView.GitDirectories=
-GitRepositoriesView.GitDirectories.relative=
+GitRepositoriesView.GitDirectories=/Users/creekrichmond/eclipse-workspace/.git\:
+GitRepositoriesView.GitDirectories.relative=.git\:
 RepositoryGroups.uuids=
-RepositorySearchDialogSearchPath=/Users/creekrichmond/git
+RepositorySearchDialogDeepSearch=false
+RepositorySearchDialogSearchPath=/Users/creekrichmond/eclipse-workspace
+RepositorySearchDialogSkipHidden=true
 eclipse.preferences.version=1

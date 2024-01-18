@@ -5,7 +5,7 @@ package lab3;
  * however whatever is inside the box must implement the Comparable interface.
  * 
  * Example of how Box is used:
- * 
+ *
  * Box<Integer> boxInt = new Box<Integer>();
  * 
  * Placing a Class Name inside the brackets is how we plug in the type for E.

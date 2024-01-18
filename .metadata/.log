@@ -14776,3 +14776,58 @@ java.nio.file.FileSystemException: /Volumes/Eclipse/Eclipse.app/Contents/Info.pl
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2024-01-18 16:13:12.091
 !MESSAGE close() called when useCnt is already zero for Repository[/Users/creekrichmond/git/CS111/.git]
+
+!ENTRY org.eclipse.egit.core 4 0 2024-01-18 16:24:41.091
+!MESSAGE An exception occurred during push on URI https://github.com/ecr00012/CS111-and-Algorithm-BattleGround.git: https://github.com/ecr00012/CS111-and-Algorithm-BattleGround.git: not authorized
+!STACK 0
+org.eclipse.jgit.errors.TransportException: https://github.com/ecr00012/CS111-and-Algorithm-BattleGround.git: not authorized
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:685)
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:627)
+	at org.eclipse.jgit.transport.TransportHttp.openPush(TransportHttp.java:541)
+	at org.eclipse.jgit.transport.PushProcess.execute(PushProcess.java:138)
+	at org.eclipse.jgit.transport.Transport.push(Transport.java:1537)
+	at org.eclipse.egit.core.op.PushOperation.run(PushOperation.java:269)
+	at org.eclipse.egit.ui.internal.push.PushJob.performJob(PushJob.java:86)
+	at org.eclipse.egit.ui.internal.jobs.RepositoryJob.run(RepositoryJob.java:59)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.egit.ui 4 0 2024-01-18 16:24:41.131
+!MESSAGE Can't connect to any repository: https://github.com/ecr00012/CS111-and-Algorithm-BattleGround.git (https://github.com/ecr00012/CS111-and-Algorithm-BattleGround.git: not authorized)
+
+!ENTRY org.eclipse.egit.core 4 0 2024-01-18 16:27:27.023
+!MESSAGE An exception occurred during push on URI https://github.com/ecr00012/CS111-and-Algorithm-BattleGround.git: https://github.com/ecr00012/CS111-and-Algorithm-BattleGround.git: not authorized
+!STACK 0
+org.eclipse.jgit.errors.TransportException: https://github.com/ecr00012/CS111-and-Algorithm-BattleGround.git: not authorized
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:685)
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:627)
+	at org.eclipse.jgit.transport.TransportHttp.openPush(TransportHttp.java:541)
+	at org.eclipse.jgit.transport.PushProcess.execute(PushProcess.java:138)
+	at org.eclipse.jgit.transport.Transport.push(Transport.java:1537)
+	at org.eclipse.egit.core.op.PushOperation.run(PushOperation.java:269)
+	at org.eclipse.egit.ui.internal.push.PushJob.performJob(PushJob.java:86)
+	at org.eclipse.egit.ui.internal.jobs.RepositoryJob.run(RepositoryJob.java:59)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.egit.ui 4 0 2024-01-18 16:27:27.031
+!MESSAGE Can't connect to any repository: https://github.com/ecr00012/CS111-and-Algorithm-BattleGround.git (https://github.com/ecr00012/CS111-and-Algorithm-BattleGround.git: not authorized)
+
+!ENTRY org.eclipse.egit.core 4 0 2024-01-18 16:36:22.273
+!MESSAGE An exception occurred during push on URI https://github.com/ecr00012/CS111-and-Algorithm-BattleGround.git: https://github.com/ecr00012/CS111-and-Algorithm-BattleGround.git: not authorized
+!STACK 0
+org.eclipse.jgit.api.errors.TransportException: https://github.com/ecr00012/CS111-and-Algorithm-BattleGround.git: not authorized
+	at org.eclipse.jgit.api.PushCommand.call(PushCommand.java:168)
+	at org.eclipse.egit.core.op.PushOperation.run(PushOperation.java:315)
+	at org.eclipse.egit.ui.internal.push.PushJob.performJob(PushJob.java:86)
+	at org.eclipse.egit.ui.internal.jobs.RepositoryJob.run(RepositoryJob.java:59)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.jgit.errors.TransportException: https://github.com/ecr00012/CS111-and-Algorithm-BattleGround.git: not authorized
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:685)
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:627)
+	at org.eclipse.jgit.transport.TransportHttp.openPush(TransportHttp.java:541)
+	at org.eclipse.jgit.transport.PushProcess.execute(PushProcess.java:138)
+	at org.eclipse.jgit.transport.Transport.push(Transport.java:1537)
+	at org.eclipse.jgit.api.PushCommand.call(PushCommand.java:158)
+	... 4 more
+
+!ENTRY org.eclipse.egit.ui 4 0 2024-01-18 16:36:22.278
+!MESSAGE Can't connect to any repository: https://github.com/ecr00012/CS111-and-Algorithm-BattleGround.git (https://github.com/ecr00012/CS111-and-Algorithm-BattleGround.git: not authorized)
