@@ -16158,3 +16158,20 @@ java.nio.file.FileSystemException: /Volumes/Eclipse/Eclipse.app/Contents/Info.pl
 	at org.eclipse.urischeme.internal.registration.RegistrationMacOsX.handleSchemes(RegistrationMacOsX.java:55)
 	at org.eclipse.urischeme.AutoRegisterSchemeHandlersJob.run(AutoRegisterSchemeHandlersJob.java:94)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.egit.core 4 0 2024-01-18 16:52:46.356
+!MESSAGE An exception occurred during push on URI https://github.com/ecr00012/CS111-and-Algorithm-BattleGround.git: https://github.com/ecr00012/CS111-and-Algorithm-BattleGround.git: git-receive-pack not permitted on 'https://github.com/ecr00012/CS111-and-Algorithm-BattleGround.git/'
+!STACK 0
+org.eclipse.jgit.errors.TransportException: https://github.com/ecr00012/CS111-and-Algorithm-BattleGround.git: git-receive-pack not permitted on 'https://github.com/ecr00012/CS111-and-Algorithm-BattleGround.git/'
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:692)
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:627)
+	at org.eclipse.jgit.transport.TransportHttp.openPush(TransportHttp.java:541)
+	at org.eclipse.jgit.transport.PushProcess.execute(PushProcess.java:138)
+	at org.eclipse.jgit.transport.Transport.push(Transport.java:1537)
+	at org.eclipse.egit.core.op.PushOperation.run(PushOperation.java:269)
+	at org.eclipse.egit.ui.internal.push.PushJob.performJob(PushJob.java:86)
+	at org.eclipse.egit.ui.internal.jobs.RepositoryJob.run(RepositoryJob.java:59)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.egit.ui 4 0 2024-01-18 16:52:46.391
+!MESSAGE Can't connect to any repository: https://github.com/ecr00012/CS111-and-Algorithm-BattleGround.git (https://github.com/ecr00012/CS111-and-Algorithm-BattleGround.git: git-receive-pack not permitted on 'https://github.com/ecr00012/CS111-and-Algorithm-BattleGround.git/')
